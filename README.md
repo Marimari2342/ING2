@@ -11,7 +11,6 @@
 >Año de cursada: 2025.
 >
 >* Enlace al repo (tp de la práctica) ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/AlquilandoWeb).
->* 
 >* Programa de la Materia ➡️[<code>**AQUÍ**</code>]().
 >
 <br>
